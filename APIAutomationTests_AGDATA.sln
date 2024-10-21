@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIAutomationTests_AGDATA", "APIAutomationTests_AGDATA\APIAutomationTests_AGDATA.csproj", "{918951E4-5C91-4B26-AA27-76F1A960679E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUIAutomation_AGDATA", "WebUIAutomation_AGDATA\WebUIAutomation_AGDATA.csproj", "{96252EDF-695E-409C-9E7A-320AF9B1BECD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{918951E4-5C91-4B26-AA27-76F1A960679E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{918951E4-5C91-4B26-AA27-76F1A960679E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{918951E4-5C91-4B26-AA27-76F1A960679E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96252EDF-695E-409C-9E7A-320AF9B1BECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96252EDF-695E-409C-9E7A-320AF9B1BECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96252EDF-695E-409C-9E7A-320AF9B1BECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96252EDF-695E-409C-9E7A-320AF9B1BECD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
