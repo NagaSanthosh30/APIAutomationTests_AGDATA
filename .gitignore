@@ -364,3 +364,5 @@ FodyWeavers.xsd
 /APIAutomationTests_AGDATATests1
 /WebUIAutomation_AGDATA/Utilities
 /WebUIAutomation_AGDATA/WapperFactory
+/AGDATA_WebUIAutomation
+/AGDATA_WebUIAutoTests
