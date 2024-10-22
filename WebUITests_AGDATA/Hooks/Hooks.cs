@@ -24,7 +24,7 @@ namespace WebUITests_AGDATA.Hooks
         private static ExtentTest scenario;
         [ThreadStatic]
         private static ExtentReports extent;
-
+        
 
         [BeforeTestRun]
         public static void BeforeTestRun()
@@ -56,6 +56,7 @@ namespace WebUITests_AGDATA.Hooks
             //Create dynamic feature name
             featureName = extent.CreateTest<Feature>(FeatureContext.Current.FeatureInfo.Title);
             Log.Information("Selecting featur file {0} to run", FeatureContext.Current.FeatureInfo.Title);
+            //
         }
 
 

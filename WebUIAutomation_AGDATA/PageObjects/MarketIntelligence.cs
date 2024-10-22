@@ -1,7 +1,7 @@
-﻿using AGDATA_WebUIAutomation.WarpperFactory;
+﻿using WebUIAutomation_AGDATA.WapperFactory;
 using OpenQA.Selenium;
 
-namespace AGDATA_WebUIAutomation.PageObjects
+namespace WebUIAutomation_AGDATA.PageObjects
 {
     public class MarketIntelligence : BasePage
     {

@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace AGDATA_WebUIAutomation.Utilities
+namespace WebUIAutomation_AGDATA.Utilities
 {
 
     public class EnvironmentDetails

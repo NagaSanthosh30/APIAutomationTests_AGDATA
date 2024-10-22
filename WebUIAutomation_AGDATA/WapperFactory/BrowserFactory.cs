@@ -1,11 +1,11 @@
-﻿using AGDATA_WebUIAutomation.Utilities;
+﻿using WebUIAutomation_AGDATA.Utilities;
 using AventStack.ExtentReports;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Edge;
 using OpenQA.Selenium.Firefox;
 
-namespace AGDATA_WebUIAutomation.WarpperFactory
+namespace WebUIAutomation_AGDATA.WapperFactory
 {
     public class BrowserFactory
     {
