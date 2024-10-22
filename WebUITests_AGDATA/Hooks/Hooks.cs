@@ -1,5 +1,5 @@
-﻿using AGDATA_WebUIAutomation.Utilities;
-using AGDATA_WebUIAutomation.WarpperFactory;
+﻿using WebUIAutomation_AGDATA.Utilities;
+using WebUIAutomation_AGDATA.WapperFactory;
 using AventStack.ExtentReports;
 using AventStack.ExtentReports.Gherkin.Model;
 using AventStack.ExtentReports.Reporter;
@@ -10,7 +10,7 @@ using Serilog.Events;
 using System.Reflection;
 using TechTalk.SpecFlow;
 
-namespace StackyonUITestsAGDATA_WebUIAutoTests.Hooks
+namespace WebUITests_AGDATA.Hooks
 {
     [Binding]
     public sealed class Hooks

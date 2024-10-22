@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using RestSharp;
 
-namespace AGDATA_APIAutomationTests.Helpers
+namespace APIAutomationTests_AGDATA.Helpers
 {
     public class ApiClient
     {

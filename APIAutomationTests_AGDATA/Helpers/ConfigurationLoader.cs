@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace AGDATA_APIAutomationTests.Helpers
+namespace APIAutomationTests_AGDATA.Helpers
 {
     public class Configuration
     {

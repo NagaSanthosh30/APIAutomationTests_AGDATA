@@ -1,4 +1,4 @@
-﻿namespace AGDATA_APIAutomationTests.Models
+﻿namespace APIAutomationTests_AGDATA.Models
 {
     public class User
     {

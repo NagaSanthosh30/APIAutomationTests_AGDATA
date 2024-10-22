@@ -1,8 +1,8 @@
-using AGDATA_APIAutomationTests.Helpers;
-using AGDATA_APIAutomationTests.Models;
+using APIAutomationTests_AGDATA.Helpers;
+using APIAutomationTests_AGDATA.Models;
 using System.Net;
 
-namespace AGDATA_APIAutomationTests
+namespace APIAutomationTests_AGDATA.Tests
 {
     public class APITests
     {

@@ -1,6 +1,6 @@
-﻿using AGDATA_WebUIAutomation.PageObjects;
+﻿using WebUIAutomation_AGDATA.PageObjects;
 
-namespace AGDATA_WebUIAutomation.PageBase
+namespace WebUIAutomation_AGDATA.PageBase
 {
     public class Page
     {

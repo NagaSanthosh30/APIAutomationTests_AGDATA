@@ -1,4 +1,4 @@
-﻿using AGDATA_WebUIAutomation.WarpperFactory;
+﻿using WebUIAutomation_AGDATA.WapperFactory;
 using OpenQA.Selenium;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AGDATA_WebUIAutomation.PageObjects
+namespace WebUIAutomation_AGDATA.PageObjects
 {
     public class MarketIntelligence : BasePage
     {

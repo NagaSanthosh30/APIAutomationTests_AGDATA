@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json.Linq;
 using Newtonsoft.Json.Schema;
 
-namespace AGDATA_APIAutomationTests.Helpers
+namespace APIAutomationTests_AGDATA.Helpers
 {
     public class SchemaValidator
     {

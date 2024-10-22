@@ -1,7 +1,7 @@
-using AGDATA_APIAutomationTests;
-using AGDATA_APIAutomationTests.Helpers;
+using APIAutomationTests_AGDATA.Tests;
+using APIAutomationTests_AGDATA.Helpers;
 
-namespace APIAutomationTests
+namespace APIAutomationTests_AGDATA.Tests
 {
     public class APISchemaTests
     {
