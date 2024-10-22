@@ -1,8 +1,8 @@
-﻿using WebUIAutomation_AGDATA.WapperFactory;
+﻿using AGDATA_WebUIAutomation.WarpperFactory;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 
-namespace WebUIAutomation_AGDATA.PageObjects
+namespace AGDATA_WebUIAutomation.PageObjects
 {
     public class BasePage
     {

@@ -1,12 +1,7 @@
-﻿using WebUIAutomation_AGDATA.WapperFactory;
+﻿using AGDATA_WebUIAutomation.WarpperFactory;
 using OpenQA.Selenium;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace WebUIAutomation_AGDATA.PageObjects
+namespace AGDATA_WebUIAutomation.PageObjects
 {
     public class MarketIntelligence : BasePage
     {
@@ -20,10 +15,6 @@ namespace WebUIAutomation_AGDATA.PageObjects
             var headings = _driver.FindElements(waysYouBenefitHeadings);
             return headings.Select(h => h.Text).ToList(); // Return headings as a list
 
-            foreach (var heading in headings)
-            {
-                Console.WriteLine("Heading: " + heading);
-            }
         }
 
         // Click on "Let's Get Started" button

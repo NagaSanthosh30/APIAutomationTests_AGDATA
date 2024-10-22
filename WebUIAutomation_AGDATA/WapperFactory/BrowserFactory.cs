@@ -1,11 +1,11 @@
-﻿using WebUIAutomation_AGDATA.Utilities;
+﻿using AGDATA_WebUIAutomation.Utilities;
 using AventStack.ExtentReports;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Edge;
 using OpenQA.Selenium.Firefox;
 
-namespace WebUIAutomation_AGDATA.WapperFactory
+namespace AGDATA_WebUIAutomation.WarpperFactory
 {
     public class BrowserFactory
     {
@@ -16,6 +16,7 @@ namespace WebUIAutomation_AGDATA.WapperFactory
         private static EnvironmentDetails environmentDetails;
         #endregion
         #region Properties
+
         public static IWebDriver Driver
         {
             get
